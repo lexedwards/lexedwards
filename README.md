@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a new JS Developer that took the leap to quit my full-time job and study up commit to the career change... just before Covid-19 hit 🤯 I ♥️ front end development, especially with Typescript, but I've also found a passion within back-end puzzles and even within testing (since taking Kent C Dodd's course! 🌟 )
+I'm a JS/TS Developer that took the leap to quit my full-time job and study up commit to the career change... just before Covid-19 hit 🤯 I ♥️ front end development, especially with Typescript, but I've also found a passion within back-end puzzles and even within testing (since taking Kent C Dodd's course! 🌟 )
 
-__I'm not sitting still though__, juggling a family pup and continuously learning new skills, improving what I can, I know I've still got a lot to improve. I just hope that I've got what it takes once the job market picks back up! I'd love to be part of a bigger team and contribute to projects that are meaningful to their audience.
 
-Before 2020, I absolutely loved travelling, so much, I spent about a year travelling constantly before falling into TEFL for two years to fund for the next adventure. Until everything is safe once again, I'm helping out the family in the UK or deep into my headphones listening to music.
+- 🔭 I’m currently working on UI libraries in React
+- 🌱 I’m currently learning how to manage Covid lockdown
+- 👯 I’m looking to collaborate on UI libraries that focus on inclusion.
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about anything
+- 📫 How to reach me: hello@alexedwards.co
+- ⚡ Fun fact: I've traveled to 20+ countries before returning to the UK
