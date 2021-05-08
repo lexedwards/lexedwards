@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a JS/TS Developer that took the leap to quit my full-time job and study up commit to the career change... just before Covid-19 hit 🤯 I ♥️ front end development, especially with Typescript, but I've also found a passion within back-end puzzles and even within testing (since taking Kent C Dodd's course! 🌟 )
+I'm a JS/TS Developer that took the leap to quit my full-time job and study up commit to the career change... just before Covid-19 hit 🤯 I ♥️ front end development, especially with Typescript, but I've also found a passion within back-end puzzles and testing (since taking Kent C Dodd's course! 🌟 )
 
 
-- 🔭 I’m currently working on UI libraries in React
-- 🌱 I’m currently learning how to manage Covid lockdown
-- 👯 I’m looking to collaborate on UI libraries that focus on inclusion.
+- 🔭 I’m currently working on React web applications
+- 🌱 I’m currently waiting to explore again
+- 👯 I’m looking to collaborate on applications that focus on inclusion.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
 - 📫 How to reach me: hello@alexedwards.co
-- ⚡ Fun fact: I've traveled to 20+ countries before returning to the UK
+- ⚡ Fun fact: I've traveled to 20+ countries and am terrible at languages no matter how much I love trying to learn a new one
