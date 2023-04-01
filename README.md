@@ -1,27 +1,10 @@
-### Hi there 👋
+# Hi, I'm <a href="//alexedwards.co">Alex Edwards</a> 👋
 
-<!--
-**lexedwards/lexedwards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Alex. I build a lot of proof-of-concepts and experiments while in search for creating a great experience.
 
-Here are some ideas to get you started:
+I currently work @ BBC as a Software Engineer. To see what I get up to at work, check out <a href="//bbc.co.uk/iplayer">iPlayer</a> in the browser.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm a JS/TS Developer that took the leap to quit my full-time job and study up commit to the career change... just before Covid-19 hit 🤯 I ♥️ front end development, especially with Typescript, but I've also found a passion within back-end puzzles and testing (since taking Kent C Dodd's course! 🌟 )
-
-
-- 🔭 I’m currently working on React web applications
-- 🌱 I’m currently waiting to explore again
-- 👯 I’m looking to collaborate on applications that focus on inclusion.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything
-- 📫 How to reach me: hello@alexedwards.co
-- ⚡ Fun fact: I've traveled to 20+ countries and am terrible at languages no matter how much I love trying to learn a new one
+- 🔭 I’m currently working on paving better developer experiences to production.
+- 🌱 I’m currently looking for excuses to use Rust.
+- 📫 How to reach me: <a href="mailto:hello@alexedwards.co">hello 👋</a>
+- 😄 Pronouns: He/Him
